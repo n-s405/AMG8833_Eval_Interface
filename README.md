@@ -1,6 +1,8 @@
 # Interfacing with the Panasonic AMG8833 Evaluation Kit
 
-Building the following chain **sensordata->arduino->processing** 
+Building the following chain **sensor->arduino->processing** 
+
+
 Added a function to make a 2d array representation of the data stream .  
 
 ## Required Libraries (included in data folder)
