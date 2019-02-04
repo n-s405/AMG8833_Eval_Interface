@@ -13,5 +13,6 @@ A5(SDA)     |       D15
 5V          |       5V
 GND         |       GND
 
+### Get here: https://www.mouser.in/new/panasonic/panasonic-grid-eye-infrared-array-sensors/
 ## Output
 ![Output Image](/data/output.png)
