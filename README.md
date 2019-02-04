@@ -1,9 +1,16 @@
-# AMG8833_Eval_Interface
+# Interfacing with the Panasonic AMG8833 Evaluation Kit
 
 
+## Required Libraries (included in data folder)
+1. Wire.h
+2. Grideye.h
 
-I spent an hour looking for a way to get communication set up between my Panasonic evaluation kit and my Arduino Uno . 
-Finally found something on a japanese forum . 
+## Circuit Connections
+Arduino Pin | Sensor board Pin
+------------|-----------------
+A4(SCL)     |       D14
+A5(SDA)     |       D15
+5V          |       5V
+GND         |       GND
 
-This is just the code for basic interface . 
 
